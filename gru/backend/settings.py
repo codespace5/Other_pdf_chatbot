@@ -1,0 +1,5 @@
+OPENAI_KEY = "sk-"
+# PINECONE_API_KEY = "42028818-b711-4e0e-9ec3-85684377ac58"
+# PINECONE_ENV = "asia-southeast1-gcp-free"
+PINECONE_API_KEY = "a6d04745-1bb1-4146-b406-3f39307c1991"
+PINECONE_ENV = "gcp-starter"
